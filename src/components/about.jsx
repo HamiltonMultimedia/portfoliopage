@@ -13,8 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am a computer Information Technology student from Per Scholas with System Administrator as my focus. I love exploring new technologies and often amazed by the progress we have made so far in the recent years (apart from the weapons part!!)</p>
+                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often. You can write me back if you spot any and don't want to read anymore. :P </p>
                     </div>
                 </div>
                 </div>
@@ -27,7 +27,7 @@ export default class About extends Component {
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <h2 className="colorlib-heading">Here are some areas of my expertise</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -37,8 +37,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Web App Development </h3>
+                    <p>I have experience building websites and mobile apps using JavaScript, React, React Native, HTML & CSS.</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA and use them regularly in past and present apps.</p>
                 </div>
                 </div>
             </div>
