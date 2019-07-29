@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer Information Technology student from Per Scholas with System Administrator as my focus. I love exploring new technologies and often amazed by the progress we have made so far in the recent years (apart from the weapons part!!)</p>
+                    <p>I am an Information Technology student with a varied skill set. I love exploring new technologies and often amazed by the progress we have made so far in the recent years (apart from the weapons part!!)</p>
                     <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often. You can write me back if you spot any and don't want to read anymore. :P </p>
                     </div>
                 </div>
@@ -60,19 +60,19 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>I am developing my code with Github and working with tools like Azsure Pipelines, Jenkins, Docker and Bitbucket Pipelines</p>
                 </div>
                 </div>
             </div>
-            {/*
+            
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <h3>Multimedia</h3>
+                    <p>Videography, Photograpy, Visual Effects & Audio Effects. BOOM! </p>
                 </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
+                    <p>I love to let my creative juices flow in 3D and 2D .. P</p>
                 </div>
                 </div>
             </div>
@@ -94,11 +94,11 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <p>I will get your social media presence 'poppin'! :) </p>
                 </div>
                 </div>
             </div>
-            */}
+           
             </div>
         </div>
         </section>
