@@ -14,11 +14,11 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/HW_thumbnail.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<h3><a href="https://youtu.be/4QCv88K_8q8">Hello World!</a></h3>
+											<span>YouTube Video</span>
 											<p className="icon">
 												<span><a href="#1"><i className="icon-share3" /></a></span>
 												<span><a href="#2"><i className="icon-eye" /> 100</a></span>
@@ -29,11 +29,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/coolchat.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="https://guarded-badlands-92028.herokuapp.com/">React Chat Application</a></h3>
+											<span>Web App</span>
 											<p className="icon">
 												<span><a href="#4"><i className="icon-share3" /></a></span>
 												<span><a href="#5"><i className="icon-eye" /> 100</a></span>
@@ -44,11 +44,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/HMM_Screenshot.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="https://hamiltonmultimedia.com/">Hamilton Multimedia Website</a></h3>
+											<span>Web Design</span>
 											<p className="icon">
 												<span><a href="#7"><i className="icon-share3" /></a></span>
 												<span><a href="#8"><i className="icon-eye" /> 100</a></span>
@@ -59,11 +59,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Eric_Garner_Video_Graphic.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="https://youtu.be/Lp7yGfywPGY">Justice for Eric Garner Video</a></h3>
+											<span>YouTube Video</span>
 											<p className="icon">
 												<span><a href="#10"><i className="icon-share3" /></a></span>
 												<span><a href="#11"><i className="icon-eye" /> 100</a></span>
@@ -74,11 +74,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/rn_music_thumbnail.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="https://youtu.be/IoWkx5dy9fU">React Native Spotify Clone App</a></h3>
+											<span>iOS & Android Application</span>
 											<p className="icon">
 												<span><a href="#13"><i className="icon-share3" /></a></span>
 												<span><a href="#14"><i className="icon-eye" /> 100</a></span>
@@ -89,11 +89,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/3D_motion_graphic.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="https://youtu.be/pLhD8Tj_tsg">3D Logo Reveal</a></h3>
+											<span>3D Motion Graphic Design</span>
 											<p className="icon">
 												<span><a href="#16"><i className="icon-share3" /></a></span>
 												<span><a href="#17"><i className="icon-eye" /> 100</a></span>
@@ -104,11 +104,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						</div>
-						<div className="row">
+						{/* <div className="row">
 							<div className="col-md-12 animate-box">
 								<p><a href="#19" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
 							</div>
-						</div>
+						</div> */}
 					</div>
 				</section>
       </div>
