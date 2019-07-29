@@ -44,7 +44,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/HMM_Screenshot.png)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/HMM_ScreenShot.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="https://hamiltonmultimedia.com/">Hamilton Multimedia Website</a></h3>
