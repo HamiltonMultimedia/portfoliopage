@@ -94,7 +94,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Digital Marketing</h3>
-                    <p>I will get your social media presence 'poppin'! :) </p>
+                    <p>I will get your social media presence 'poppin'! (As they say) :) </p>
                 </div>
                 </div>
             </div>
