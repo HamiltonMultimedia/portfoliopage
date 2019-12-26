@@ -14,7 +14,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight ">
                         <div className="desc">
-                          <h1 style={{color: 'white'}} >Hi! <br />I'm Terence</h1>
+                          <h1 style={{color: 'white', fontFamily: 'Helvetica Neue'}} >Hi! <br />I'm Terence.</h1>
                           <p style={{color: 'white'}}><a style={{color: 'white'}} className="btn  btn-primary btn-learn " href="https://drive.google.com/file/d/1abGmKo2LZt0ON8EHwV9JZ0OT-VtALWv1/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
@@ -28,8 +28,8 @@ export default class Introduction extends Component {
                   <div className="row">
                     <div className="col-md-6 col-md-offset-7 col-sm-12 col-xs-12  js-fullheight slider-text">
                       <div className="slider-text-inner">
-                        <div className="desc">
-                          <h1 style={{color: 'white'}}>I love building<br /> THINGS !!</h1>
+                        <div className="desc" >
+                          <h1 style={{color: 'ghostwhite', fontFamily: 'Helvetica Neue'}}>I love building<br /> THINGS !!</h1>
                           <p><a style={{color: 'white'}} className="btn btn-outline-light btn-primary btn-learn" href="https://github.com/HamiltonMultimedia" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
@@ -44,7 +44,8 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-7 col-sm-12 col-xs-12  js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{color: 'white'}}>I often <br/>Create ... </h1>
+                          <h1 style={{color: 'navy', fontFamily: 'Helvetica Neue', textShadowColor: 'white', textShadowOffset: {width: '4', height: '4'}, textshadowRadius: '-4'
+                        }}>I Create <br/>Often ... </h1>
                           <p><a style={{color: 'white'}} className="btn btn-outline-light btn-primary btn-learn" href="http://hamiltonmultimedia.com" target="_blank" rel="noopener noreferrer">View Home Page <i className="icon-book" /></a></p>
                         </div>
                       </div>
