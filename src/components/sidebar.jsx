@@ -28,7 +28,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://www.facebook.com/Terence.P.J.Hamilton" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/HamiltonFilmsNY" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.instagram.com/hamilton_multimedia/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/terence-hamilton-web-developer/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://www.linkedin.com/in/terence-hamilton/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/HamiltonMultimedia" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li><a href="https://www.youtube.com/channel/UCYl6RaKGGVZ42lTQNMu4S9w?view_as=subscriber" target="_blank" rel="noopener noreferrer"><i className="icon-youtube"></i></a></li>
               </ul>
